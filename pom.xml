@@ -15,7 +15,7 @@
         <testng.version>7.1.0</testng.version>
         <extentreports.version>4.0.8</extentreports.version>
         <extentreports.adapter.version>1.0.3</extentreports.adapter.version>
-        <lombok.version>1.18.12</lombok.version>
+        <lombok.version>1.18.24</lombok.version>
         <webdrivermanager.version>4.2.0</webdrivermanager.version>
         <log4j.version>2.13.3</log4j.version>
     </properties>
